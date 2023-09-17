@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mouad1502
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on anything Python included
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning VueJs
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me :
 -     here is my discord : MouadLeProf#6176
 
