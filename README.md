@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Mouad1502
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning VueJs
+- 👀 I’m always learning and enhancing my skills all the time
+- 🌱 I’m currently learning Data Science, Data Engineering and AI
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me :
--     here is my discord : MouadLeProf#6176
+-     here is my email : mrmouadabbar@gmail.com
 
 <!---
 Mouad1502/Mouad1502 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
